@@ -170,3 +170,4 @@ contract BaseBlessingBeggar {
         emit Donated(msg.sender, msg.value, tier, finalMessage);
     }
 }
+cannot encode empty arguments
